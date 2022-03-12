@@ -1,0 +1,5 @@
+1 rem=16px
+pyo vs pxo (know the difference)
+if property is not working then use !important
+if same properties are two position then it must be use the after property and that would be absolute(content,bottom and left or right must be included)
+custom js: if there is included centerMode then must be included padding:0. padding must be include for the solution.
